@@ -19,3 +19,8 @@ The test suite can be run via:
 ```
 pytest tests/*
 ```
+
+## Dependencies:
+Jupyter, Python and the following packages:
+- pandas
+- pytest
